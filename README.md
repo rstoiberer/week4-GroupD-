@@ -34,7 +34,9 @@ In class competition week 4 - Anissa, Kay, Javier, Richard
 
 | What we found (with a count) | What we decided | Justification (one line) |
 |---|---|---|
-| | | |
+|There are ISO3 country codes which were not capitalised() |Decided to capitalise them | We want to ensure consistency among country codes|
+|We spot encoding errors for country names |Decided map all countries correctly with the country ISO3 country codes | We want to ensure consistent mapping between ISO3 and country names|
+|We found inconsistencies in income group names() |Decided to lower case, replacing dashes with "", stripping leading and trailing whitespaces, and ensuring every label name ends with "income"| We want to ensure consistency among income groups|
 
 
 ### ✍️ Decision log, checkpoint 4: dates
