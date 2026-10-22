@@ -45,7 +45,7 @@ In class competition week 4 - Anissa, Kay, Javier, Richard
 
 | What we found (with a count) | What we decided | Justification (one line) |
 |---|---|---|
-| | | |
+| Inconsistent date format()|We decided to stadadize format | We want the date format to be consistent|
 
 
 ### ✍️ Decision log, checkpoint 5: duplicates
