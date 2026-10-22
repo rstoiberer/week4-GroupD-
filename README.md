@@ -54,7 +54,7 @@ In class competition week 4 - Anissa, Kay, Javier, Richard
 
 | What we found (with a count) | What we decided | Justification (one line) |
 |---|---|---|
-| | | |
+|There was no duplicate rows | To do nothing |We do not want any duplicates in our data frame|
 
 ### ✍️ Decision log, checkpoint 6: units and scales
 
